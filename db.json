@@ -4,7 +4,7 @@
 "name": "valbenie18y",
 "price": 200000,
 "comments": [
-{
+     {
       id: "1",
       name: "gibeom",
       body: "개존맛",
@@ -18,5 +18,5 @@
     "userId" : "111@111.com"
     "userPw" : "11111"
   }
-  ]
+ ]
 }
